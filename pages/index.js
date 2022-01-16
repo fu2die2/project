@@ -10,6 +10,8 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <Head>
         <title>{siteTitle}</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2308554346441152"
+        crossorigin="anonymous"></script>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>[Your Self Introduction]</p>
